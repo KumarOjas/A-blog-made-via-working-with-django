@@ -1,2 +1,2 @@
-# A-blog-made-via-working-with-django
+# A-blog-made-while-working-with-django
 
